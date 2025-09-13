@@ -1,6 +1,9 @@
 ## Welcome to GitHub Pages
 ## Vihaan Kottam CS193
-## Favorite things about CS193: The friendliness of instruction, the structure of the class, and the ease
+## Favorite things about CS193: 
+- The friendliness of instructors
+- the structure and lessonplan of the class
+- Laidback nature of the class 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
